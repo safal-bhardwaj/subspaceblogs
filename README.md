@@ -2,14 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is a Blog Explorer App which fetches Blogs from API and show them on home screen in clickable card format where these cards can be explored in detail by clicking over them and there you can mark you blogs as favorite. You can also see those favorite marked blogs seperately by just clicking over the favorite button in AppBar.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
